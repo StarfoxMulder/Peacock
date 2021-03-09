@@ -1,7 +1,6 @@
 # simple_library
 With the prompt of setting up a simple IoC library within a two hour timeframe, I opted to use [Create React App](https://github.com/facebook/create-react-app) for a boilerplate template so I could focus more of my time on programming.
 Using an established framework to call the sections of code I register seemed like the straight-forward way of demonstrating IoC concepts in a limited amount of time.
-I also made use of a 
 
 ## To Begin
 Clone or fork this repository onto your own machine.
