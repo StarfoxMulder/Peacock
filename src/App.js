@@ -5,7 +5,7 @@ import Dog from "./Dog";
 function App() {
   return (
     <div className="App">
-      <Dog />
+      <Dog name="Lenny" pronoun="He" age="2" breed="Lab/Cattle Dog mix"/>
     </div>
   );
 }
